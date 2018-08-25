@@ -6,8 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Number of Pull Requests:
 
 ### Image:
-
-### Source Code:
 [General Classification Table](https://github.com/tripletripletripleblind/icse2019/blob/master/img/ClassificationTable.PNG)
 
 [Detection Accuracy](https://github.com/tripletripletripleblind/icse2019/blob/master/img/DetectionAccuracy.PNG)
@@ -17,6 +15,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Role Classification Table](https://github.com/tripletripletripleblind/icse2019/blob/master/img/RoleClassification.PNG)
 
 [Stage Classification Table](https://github.com/tripletripletripleblind/icse2019/blob/master/img/StageClassification.PNG)
+
+### Source Code:
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
