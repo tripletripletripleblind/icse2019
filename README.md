@@ -2,7 +2,7 @@
 
 [editor on GitHub](https://github.com/tripletripletripleblind/icse2019/edit/master/README.md) 
 
-### Number of Pull Requests:
+### Number of Approved Pull Requests:
 
 ### Image:
 [General Classification Table](https://github.com/tripletripletripleblind/icse2019/blob/master/img/ClassificationTable.PNG)
